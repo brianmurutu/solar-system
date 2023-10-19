@@ -1,10 +1,10 @@
 # Solar-system
 
-![Page Screenshot](https://github.com/brianmurutu/login-form/blob/main/Screenshot%202023-10-17%20at%2020-41-20%20Animated%20Login%20From.png)
+![Page Screenshot](solar-system.png)
 
 ## Live Demo
 
-**Watch Video** - *Created by Me* &nbsp; [![Watch Video](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/watchVideo.svg)](https://right-pelican.static.domains)
+**Watch Video** - *Created by Me* &nbsp; [![Watch Video](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/watchVideo.svg)](solar.mkv)
  
 
 ## Contact
